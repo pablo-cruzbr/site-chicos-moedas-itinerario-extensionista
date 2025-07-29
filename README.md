@@ -18,5 +18,7 @@ Seu principal objetivo é oferecer uma plataforma acessível e organizada com os
  Demonstração
 Você pode acessar o site clicando no link abaixo:
 
-Demonstração
-[Clique aqui para acessar a versão online do projeto](https://pablo-cruzbr.github.io/site-chicos-moedas-itinerario-extensionista/)
+Demonstração:
+
+<a href="https://pablo-cruzbr.github.io/site-chicos-moedas-itinerario-extensionista/" target="_blank">Clique aqui para acessar a versão online do projeto</a>
+
