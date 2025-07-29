@@ -18,4 +18,5 @@ Seu principal objetivo é oferecer uma plataforma acessível e organizada com os
  Demonstração
 Você pode acessar o site clicando no link abaixo:
 
-🔗 [Acesse a Demo aqui](https://seudominio.com ou link do Vercel/Netlify/Replit)
+Demonstração
+[Clique aqui para acessar a versão online do projeto](https://pablo-cruzbr.github.io/site-chicos-moedas-itinerario-extensionista/)
