@@ -1,4 +1,4 @@
-### Site HTML e CSS - Focado em Vestibulares 
+### Site Estático com HTML e CSS | Preparação para Vestibulares
 <img width="1360" height="2000" alt="site-chico-moedas" src="https://github.com/user-attachments/assets/10c3d0e6-01ba-4122-b41f-e13e10cd2223" />
 
 ### Objetivo: Criar um Site Informativo para Estudantes de Vestibulares
